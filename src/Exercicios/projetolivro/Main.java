@@ -14,5 +14,11 @@ public class Main {
 
         System.out.println(l[1].detalhes());
 
+        l[1].abrir();
+        l[1].folhear(100);
+        l[1].avancarPagina();
+        System.out.println("======================");
+        System.out.println(l[1].detalhes());
+
     }
 }
