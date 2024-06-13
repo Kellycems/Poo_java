@@ -14,7 +14,6 @@ public class Combat {
         Luta luta = new Luta();
 
         luta.marcarLuta(l[3], l[2]);
-        luta.lutar();
-        l[2].apresentar();
+        luta.lutar();   
     }
 }
