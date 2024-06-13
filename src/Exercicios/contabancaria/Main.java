@@ -1,4 +1,4 @@
-package Exercicios.Conta_Bancaria;
+package Exercicios.contabancaria;
 
 public class Main {
    public static void main(String[] args) {

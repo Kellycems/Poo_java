@@ -1,4 +1,4 @@
-package Exercicios.Conta_Bancaria;
+package Exercicios.contabancaria;
 public class ContaBancaria {
     private int numConta;
     protected String tipo;
