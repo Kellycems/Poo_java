@@ -1,4 +1,4 @@
-package Heranca;
+package Heranca.Parte01;
 
 public class Funcionario extends Pessoa {
     private String setor;

@@ -1,4 +1,4 @@
-package Heranca;
+package Heranca.Parte02;
 
 public class Professor extends Pessoa {
     private String especialidade;

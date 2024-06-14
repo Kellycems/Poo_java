@@ -1,4 +1,4 @@
-package Heranca;
+package Heranca.Parte01;
 public class Aluno extends Pessoa{
     private int matricula;
     private String curso;
